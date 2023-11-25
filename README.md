@@ -1,1 +1,3 @@
-# fcd-portfolio
+# fcb-portfolio
+
+This is my portfolio I created during my bootcamp in ZUITT on November 25, 2023...
